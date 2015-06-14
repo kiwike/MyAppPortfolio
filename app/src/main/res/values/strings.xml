@@ -12,4 +12,5 @@
     <string name="capstone_app">Capstone</string>
     <string name="scores">Scores</string>
     <string name="library">Library</string>
+    <string name="open_app">Opens the app </string>
 </resources>
